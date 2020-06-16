@@ -1,10 +1,10 @@
-# Gitの設定手順
+# Git with VScodeの設定手順
 
 ## git for windowsのインストール
 - Use a TrueType font in all console windows にはチェックを入れない。日本語などの多バイト文字が文字化けする可能性あり。
 - Use Git from the Windows Command Prompt｣を選択。Git BashだけじゃなくコマンドプロンプトやパワーシェルからもGitが使える。
 
-# gitの初期設定
+## gitの初期設定
 ```
 $ git config --global user.name 'username'
 $ git config --global user.email 'username@example.com'
