@@ -10,6 +10,5 @@ $ git config --global push.default simple
 ```
 
 ## Visualstudio Code (VS Code)のインストール
-  # VScodeによるpush commitの手順
+  - VScodeによるpush commitの手順
   https://qiita.com/jesus_isao/items/63557eba36819faa4ad9
-  
