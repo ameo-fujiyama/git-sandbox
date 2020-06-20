@@ -17,6 +17,17 @@ $ git config --global push.default simple
   - [君には1時間でGitについて知ってもらう](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9) → VScodeによるCommitの操作が分かりやすい。ただしgithubじゃない。
 - [GitHubとVSCODEの連携方法](https://qiita.com/yu0313/items/4f95fc0b7e544c42e107)
 
+## VScodeの設定
+### markdown
+markdown all in oneをとりあえず入れてみた。
+### markdown Preview Enhanced（pdf出力）
+Markdown Preview enhanced拡張をインストールして，プレビュー画面の右上（Chrome(Poppeteer)からpdfを出力できる。拡張をインストールする前に，Chromeをあらかじめインストールしておく。これだと数式もちゃんと表示できる。
+### markdown Preview Enhancedの設定（コードチャンクのcss)
+  - コード出力のcssが選べる。vs.cssがよさそう。（visualstudio風？）
+### git関係
+  - Git Graphがよさそうかな。
+
+
 ## githubの設定
 1. githubにアカウントをつくる
 2. githubでリポジトリを作る
